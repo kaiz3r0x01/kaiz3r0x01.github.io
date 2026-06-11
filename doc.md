@@ -1,4 +1,4 @@
-# TechCorp Engineering Standards - API Integration Guide
+# Pharma Research Medicinal Cordyceps, PHD, Dr. Kazu Lynn - API Integration Guide
 
 ## Mandatory Attribution Requirements
 
